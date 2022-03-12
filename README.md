@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Welcome to my git repo! 
 
-Here are the 4 of my projects completed in the last 4 months. 
+Here are 4 of my projects completed in the last 4 months. 
 
 To see the code, take a deeper look into my repositories.
 
