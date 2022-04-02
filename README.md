@@ -13,7 +13,7 @@ ITC Hackathon Project: https://www.youtube.com/watch?v=lzoSONpToZA&ab_channel=Sa
 
 React Native Todo: https://github.com/SachaAttiach/TodoReactNative
 
-Some projects weren't vidoe recorded but are still on my repo. 
+Some projects weren't video recorded but are still on my repo. 
 
 Thanks for coming to my github and enjoy! 
 
