@@ -7,6 +7,8 @@ To see the code, take a deeper look into my repositories.
 
 Pet Adoption Website: https://www.youtube.com/watch?v=I2aFi1kyT-g&ab_channel=Sacha
 
+ChatApp: https://www.youtube.com/watch?v=aRvvz8qpMUc&ab_channel=Sacha
+
 ITC Hackathon Project: https://www.youtube.com/watch?v=lzoSONpToZA&ab_channel=Sacha
 
 React Native Todo: https://github.com/SachaAttiach/TodoReactNative
