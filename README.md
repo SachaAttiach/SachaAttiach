@@ -9,6 +9,8 @@ Pet Adoption Website: https://www.youtube.com/watch?v=I2aFi1kyT-g&ab_channel=Sac
 
 ChatApp: https://www.youtube.com/watch?v=aRvvz8qpMUc&ab_channel=Sacha
 
+ChatApp: With Context API: https://github.com/SachaAttiach/food-chat-app
+
 ITC Hackathon Project: https://www.youtube.com/watch?v=lzoSONpToZA&ab_channel=Sacha
 
 React Native Todo: https://github.com/SachaAttiach/TodoReactNative
