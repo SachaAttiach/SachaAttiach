@@ -5,4 +5,4 @@ Here are 4 of my projects completed in the last 4 months.
 
 To see the code, take a deeper look into my repositories.
 
-ChatApp: With Context API: https://github.com/SachaAttiach/food-chat-app
+ChatApp: https://github.com/SachaAttiach/food-chat-app
